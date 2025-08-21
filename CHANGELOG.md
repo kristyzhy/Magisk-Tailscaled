@@ -4,3 +4,5 @@
 **Notice**
 No need update if you're not use coredns.## v1.82.0.0
 - Update Tailscale binaries to v1.82.0
+## v1.86.2.0
+- Update Tailscale binaries to v1.86.2
